@@ -74,10 +74,10 @@ See `Reflection.md` for a detailed reflection including:
 
 ## Repository Structure
 
-- **Notes + screenshots/**  
+- **Notes + screenshots**  
   Event notes and screenshots  
 
-- **Resume + cover Letter/**  
+- **Resume + cover Letter**  
   Resume and cover letter documents  
 
 - **README.md**  
