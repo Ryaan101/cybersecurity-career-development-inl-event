@@ -73,10 +73,11 @@ See `Reflection.md` for a detailed reflection including:
 ---
 
 ## Repository Structure
-Notes + screenshots/ # Event notes and screenshots
-Resume + cover Letter/ # Resume and cover letter documents
-README.md # Project overview and details
-Reflection.md # Reflection write-up
+
+-  Notes + screenshots Event notes and screenshots
+-  Resume + cover Letter Resume and cover letter documents
+-  README.md  Project overview and details
+-  Reflection.md Reflection write-up
 
 ---
 
