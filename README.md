@@ -45,7 +45,7 @@ During the event, I:
 
 - Event Notes: `Notes + screenshots/Cyber Security Group Event.pdf`  
 - Reflection Report: `Reflection.md`  
-- Resume & Cover Letter: `Resume + cover Letter/`  
+- Resume & Cover Letter: `Resume + cover Letter`  
 
 ---
 
